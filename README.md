@@ -14,7 +14,7 @@ dynamic programming
 
 ## What was the key point and the hard part?
 
-I think I'm weak with recursive dp problems.
+I think I'm weak at recursive dp problems.
 
 Let's say dp[l][r] is we are seeing th l card in the left , r card in the right.
 
